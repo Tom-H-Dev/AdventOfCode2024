@@ -6,7 +6,7 @@
 #outcome add to total
 
 def main():
-    file =  open("day1_context.txt", "r")
+    file =  open("Day_1/day1_context.txt", "r")
     #get line by line first add to left array
     #if the length of the first array is longer 
     # than the second put it in second
